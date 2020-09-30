@@ -41,3 +41,4 @@ Parameters:
 Actions:
   -r             : remove host entries for the provided hostname
   -p             : print host entries related to the provided hostname
+
